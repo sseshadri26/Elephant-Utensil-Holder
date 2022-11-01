@@ -1,6 +1,6 @@
 # Elephant-Utensil-Holder
 
-An adorable elephant-shaped utensil holder with a trick up it's sleeve - when water runs through the trunk, it makes noise!
+An adorable elephant-shaped utensil holder with a trick up its sleeve - when water runs through the trunk, it makes noise!
 My favorite part: the sound board PCB itself is shaped like an elephant! My drawing skills are not great, but I managed to create a cute minamalistic elephant :)
 This repo contains the PCB files, component datasheets, sounds for the board, final code and tools, a bunch of example code I ran through while trying to get this to work, 3D models, and some other things I might have forgotten! Feel free to take a look.
 
